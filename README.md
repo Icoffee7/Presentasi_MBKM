@@ -9,7 +9,7 @@ Repository ini digunakan untuk sidang `MBKM kampus merdeka`
 
 ---
 
-### 🎓 `Study Independen` -- Full stack web developer
+### 🎓 `Study Independen` -- Full stack web developers
 
 📍 `Informatics` --  `Universitas Bhayangkara Jakarta Raya` -- `PT.Nurul Fikri Cipta Inovasi`
 
